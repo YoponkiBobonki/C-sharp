@@ -1,16 +1,15 @@
-﻿int[] arr = new int[5];
-arr[0] = 5;
-arr[1] = 3;
-arr[2] = 2;
-arr[3] = 57;
-arr[4] = 52;
-Console.WriteLine(arr[0]);
-Console.WriteLine(arr[1]);
-Console.WriteLine(arr[2]);
-Console.WriteLine(arr[3]);
-Console.WriteLine(arr[4]);
+﻿﻿using System.Net.Security;
+
+// Console.WriteLine("Hello World");
+
+int value = 100;
+Console.WriteLine(value);
 
 
-int[] arr2 = new int[5](1, 2, 3, 4, 5);
 
-int[] arr3 = (1, 2, 3, 4, 5);
+double d = 5.55;
+char c = '!';
+bool b = true;
+Console.WriteLine(d);
+Console.WriteLine(c);
+Console.WriteLine(b);

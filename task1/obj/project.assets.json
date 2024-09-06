@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\C#sharp\\Lesson_2\\task1\\task1.csproj",
+      "projectUniqueName": "c:\\Users\\MSI\\Desktop\\C#sharp\\Lesson_2\\task1\\task1.csproj",
       "projectName": "task1",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\C#sharp\\Lesson_2\\task1\\task1.csproj",
+      "projectPath": "c:\\Users\\MSI\\Desktop\\C#sharp\\Lesson_2\\task1\\task1.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\C#sharp\\Lesson_2\\task1\\obj\\",
+      "outputPath": "c:\\Users\\MSI\\Desktop\\C#sharp\\Lesson_2\\task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config"
